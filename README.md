@@ -19,4 +19,4 @@
 [![wakatime](https://wakatime.com/badge/github/CatalizCS/miraiv3.svg?style=for-the-badge)](https://wakatime.com/badge/github/CatalizCS/miraiv3)
 
 
-****COMMING SOON...****
+****ETA SOON...****
